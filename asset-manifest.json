@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bucketlist-deploy/static/js/main.56185b51.js",
+    "index.html": "/bucketlist-deploy/index.html",
+    "main.56185b51.js.map": "/bucketlist-deploy/static/js/main.56185b51.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.56185b51.js"
+  ]
+}
